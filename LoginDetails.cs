@@ -14,6 +14,11 @@ namespace spMarche1
 		public char passwordPwd;
 		public char loginStatus;
 		public DateOnly pwdCreation_date;
+		
+		static void Qdd(){
+			var qsdfddfsgfhgfdhjhjkhj
+		}
 
 	}
+
 }
